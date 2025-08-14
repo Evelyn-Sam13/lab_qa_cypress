@@ -8,6 +8,7 @@ Este projeto contém testes automatizados para a tela de login e cadastro de uma
 ⚡ Este projeto faz parte do curso de Teste de Software do Zero ao Avançado, ministrado pela professora Taynara Luana.
 
 🛠️ Tecnologias Utilizadas:
+ 
 Linguagem: JavaScript
 
 Framework de Testes: Cypress
