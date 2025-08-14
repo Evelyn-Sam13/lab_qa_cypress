@@ -17,8 +17,9 @@ Gerenciador de Pacotes: npm
 
 URL Testada: https://app-controle-produtos.vercel.app/
 
-✅ Testes Implementados
-Login com usuário válido
+✅ Testes Implementados:
+
+- Login com usuário válido
 
 -> Insere e-mail e senha válidos e realiza login na aplicação.
 
@@ -30,5 +31,5 @@ Login com usuário válido
 
 -> Verifica redirecionamentos após acessar a tela de cadastro e criar uma conta, garantindo que o usuário seja levado para a URL correta (/cadastroUsuario e /dashboard).
 
-📌 Objetivo
+📌 Objetivo:
 O projeto tem como objetivo praticar automação de testes de front-end, garantindo que os fluxos de login, cadastro e navegação estejam funcionando corretamente.
